@@ -4,5 +4,7 @@ for i in range(10):
 pass
 if a :
 pass
+
 turple = ()
 list1 = []
+
